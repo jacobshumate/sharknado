@@ -6,8 +6,8 @@ there were many more objects and features added including zooming in and out,
 switching perspectives, moving the camera angle, and starting and stopping the animation.
 
 To Compile:
-
+```
 OS X: g++ -framework GLUT -framework OpenGL -framework Cocoa sharknado.cpp -o test
 
 Linux: g++ -o test sharknado.cpp -lglut -lGL -lGLU -lX11 -lm
-
+```
