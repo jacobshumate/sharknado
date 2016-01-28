@@ -11,3 +11,5 @@ OS X: g++ -framework GLUT -framework OpenGL -framework Cocoa sharknado.cpp -o te
 
 Linux: g++ -o test sharknado.cpp -lglut -lGL -lGLU -lX11 -lm
 ```
+
+![alt tag](https://i.imgur.com/EsDbudX.jpg)
