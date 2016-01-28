@@ -13,3 +13,8 @@ Linux: g++ -o test sharknado.cpp -lglut -lGL -lGLU -lX11 -lm
 ```
 
 ![alt tag](https://i.imgur.com/EsDbudX.jpg)
+
+![alt tag](https://i.imgur.com/DAJmNlv.jpg)
+
+![alt tag](https://i.imgur.com/su2fm53.gif)
+
